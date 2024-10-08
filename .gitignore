@@ -2,4 +2,7 @@
 */
 
 # Exceto a pasta 'Codigos'
-!Codigos/
+!Codigos/*
+
+
+!Codigos/Resultados/
